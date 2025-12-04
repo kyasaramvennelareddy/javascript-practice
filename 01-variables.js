@@ -7,3 +7,4 @@ let student="sai"
 console.log("Name:", name);
 console.log("Age:", age);
 console.log("Is student:", isStudent);
+// variable name can allow any characters 
